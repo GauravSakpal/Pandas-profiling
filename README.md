@@ -1,1 +1,2 @@
 # Pandas-profiling
+pandas-profile
